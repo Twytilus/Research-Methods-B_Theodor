@@ -34,3 +34,6 @@ Finding an appropriate set of primers, capable of capturing a large amount of pa
 | 10.01.24.3.GI  | 187 | Saurida lessepsianus | Fedor Box 2 | 6.12.23 | 10.01.24 | 24.4 | 97    | Gills |
 
 Table 1 - An example table of 6 datapoints from the extractions made at the end of 2023 and the beginning of 2024.
+
+### Notes on the assingment 
+It was very cool to try out this new tool! Thank you for teaching it. Unfortunately, it seems like .md files dont support underlined text, as it doesnt appear in the GitHub README file, even if it appears as underlined in the text editor.  
