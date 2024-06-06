@@ -17,11 +17,12 @@ Until now, the lab Im working at, and my [PI - Dr. Danny Morrick](https://med-lt
 Commercial fishing and fish farming are major providers of food in the Mediterranean. The health of both wild and farmed fish is paramount, both in terms of the food security of the population and the health of the human population. Parasites are a common source of disease in fish, and the ability to quickly detect and treat it is central for places like fish farms. We want to know what parasites are in the gills of mediterranean fish, to use it as a monitoring tool, and to understand relationships with gills bacterial pathogens.
 
 ![alt text](image-4.png)
+
 Table 1 - Aquaculture Production by Species in Weight (left) and Value (right). [(*Aquaculture in the Mediterranean Natacha Carvalho European Commission, Joint Research Centre, Ispra Jordi Guillen European Commission, Joint Research Centre, Ispra*)](https://www.iemed.org/publication/aquaculture-in-the-mediterranean/)
 
 ### The biggest challenges expected in carrying out this research
 Finding an appropriate set of primers, capable of capturing a large amount of parasite DNA reliably and without much added cost. Attempting to use this detection method while pooling gill samples together, can introduce difficulties to the process of parasite DNA detection, but reduces the costs of running the reactions. To deal with those issues and to extract DNA from samples, a ["GeneMATRIX Soil DNA Purification Kit **Cat. no. E3570**"](https://eurx.com.pl/docs/manuals/en/e3570.pdf) will be used, as well as a PCR protocol (TBD) and a sequencing protocol (TBD)
-### Preliminary results of samle extractions 
+### Preliminary results of sample extractions 
 
 | Sample ID | #order | Fish sp. | Tissue box name | Date of collection | Date of necropsy | Length | Weight | Organ | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
